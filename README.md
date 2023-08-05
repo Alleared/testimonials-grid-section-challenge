@@ -1,0 +1,1 @@
+My first Junior challenge solved. It was a difficult challenge, but I learn a lot of stuff. Although, I don't know if I use grid correctly here, any help with that is welcome.
